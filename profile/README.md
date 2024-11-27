@@ -12,7 +12,7 @@
 
 <p>LeukoVision is a technology-based application designed to assist medical personnel in detecting and classifying leukemia cells. By utilizing TensorFlow for object detection and image classification, the app provides quick and accurate cell analysis, speeding up the diagnostic process and supporting more effective treatment for patients of all ages.</p>
 
-## Team Members
+<h2 align="center"> Team Members </h2>
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 <details>
   <summary align="center">Discover More</summary>
   
-  ## Tech stack
+  <h2 align="center"> Tech stack </h2>
 
   | Learning Path         | Tech                                                                                                                                                                                                                                                                                                                              |
   |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
