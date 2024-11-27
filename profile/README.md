@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center"> LeukoVision: "A Leukemia Detection App" <h1>
+<p style="color: red;">This is red text.</p>
 
 <div align="center">
   <span style="font-size: 10px;">C242-PS314 • <span style="color: red;">Bangkit</span> 2024 H2 Product-based Capstone Project</span>
