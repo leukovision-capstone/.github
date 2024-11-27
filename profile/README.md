@@ -5,7 +5,7 @@
 <h1 align="center"> LeukoVision: "A Leukemia Detection App" <h1>
 
 <p align="center">
-  C242-PS314 • **Bangkit** 2024 H2 Product-based Capstone Project
+  C242-PS314 • Bangkit 2024 H2 Product-based Capstone Project
 </p>
 
 <h2 align = "center"> About LeukoVision </h2>
