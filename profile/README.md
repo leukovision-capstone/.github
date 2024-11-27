@@ -13,7 +13,9 @@
 <p>LeukoVision is a technology-based application designed to assist medical personnel in detecting and classifying leukemia cells. By utilizing TensorFlow for object detection and image classification, the app provides quick and accurate cell analysis, speeding up the diagnostic process and supporting more effective treatment for patients of all ages.</p>
 
 ## Team Members
+
 <div align="center">
+
 |   Student ID   |           Name            |          Learning Path    |          Contact        |        Photo         |
 |:--------------:|:-------------------------:|:------------------------:|:-----------------------:|:--------------------:|
 | M282B4KY3106   | Muhammad Thayyib          | Machine Learning         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthayyib/) | ![Photo](https://via.placeholder.com/50) |
@@ -23,4 +25,5 @@
 | C623B4KX2378   | Madona Sintiyawati        | Cloud Computing          | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madona-sintiya-0a70b0285/) | ![Photo](https://via.placeholder.com/50) |
 | A012B4KX2198   | Khairunnisa               | Mobile Development       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khairunnisa-ars-768a11249/) | ![Photo](https://via.placeholder.com/50) |
 | A761B4KY3930   | Rizky Fauzi               | Mobile Development       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rzf0x/) | ![Photo](https://via.placeholder.com/50) |
+
 </div>
