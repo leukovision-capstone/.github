@@ -41,3 +41,5 @@
 
 </details>
 
+## System Architecture
+![System Architecture](https://raw.githubusercontent.com/leukovision-capstone/.github/refs/heads/main/assets/system-architecture-leukovision.jpeg)
